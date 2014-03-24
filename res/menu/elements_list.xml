@@ -1,0 +1,70 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_transporte"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_transporte"
+        android:checkable="true"/>
+    
+    <item
+        android:id="@+id/action_ecobici"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/action_ecobici"
+        android:checkable="true"/>
+    
+    <item
+        android:id="@+id/action_hoteles"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="@string/action_hoteles"
+        android:checkable="true"/>
+    
+    <item
+        android:id="@+id/action_mercados"
+        android:orderInCategory="400"
+        android:showAsAction="never"
+        android:title="@string/action_mercados"
+        android:checkable="true"/>
+    
+    <item
+        android:id="@+id/action_embajadas"
+        android:orderInCategory="500"
+        android:showAsAction="never"
+        android:title="@string/action_embajadas"
+        android:checkable="true"/>
+    
+    <item
+        android:id="@+id/action_interes"
+        android:orderInCategory="600"
+        android:showAsAction="never"
+        android:title="@string/action_interes"
+        android:checkable="true"/>
+
+    <item
+        android:id="@+id/action_estacionamientos"
+        android:orderInCategory="700"
+        android:showAsAction="never"
+        android:title="@string/action_estacionamientos"
+        android:checkable="true"/>
+    
+    <item
+        android:id="@+id/action_hospitales"
+        android:orderInCategory="800"
+        android:showAsAction="never"
+        android:title="@string/action_hospitales"
+        android:checkable="true"/>
+    
+    <item android:id="@+id/action_map"
+          android:icon="@drawable/ic_action_map"
+          android:title="@string/action_map"
+          android:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/ic_action_search"
+          android:title="@string/action_search"
+          android:showAsAction="ifRoom"
+          android:actionViewClass="android.widget.SearchView"/>
+
+</menu>

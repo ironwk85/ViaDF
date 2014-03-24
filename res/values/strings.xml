@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turisteando</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="action_list">List</string>
+    <string name="list_routes">RoutesList</string>
+    <string name="list_routesList">RoutesListList</string>
+    <string name="action_search">Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map">Mapa de lugares</string>
+    <string name="title_activity_elements_list">Lista de lugares</string>
+    <string name="action_transporte">Transporte</string>
+    <string name="action_ecobici">Ecobici</string>
+    <string name="action_hoteles">Hoteles</string>
+    <string name="action_mercados">Mercados</string>
+    <string name="action_embajadas">Embajadas</string>
+    <string name="action_interes">Sitios de Interés</string>
+    <string name="action_estacionamientos">Estacionamientos</string>
+    <string name="action_hospitales">Hospitales</string>
+
+    <color name="black">#F5AD43</color>
+    <color name="orange">#f5ac43</color>
+
+    <string name="title_activity_places">Lugares</string>
+    <string name="title_activity_awards">Medallas</string>
+    <string name="title_activity_routes">Rutas</string>
+    <string name="title_activity_search">Búsqueda</string>
+    <string name="title_activity_details">Detalles del lugar</string>
+    <string name="tv1">tv1</string>
+    <string name="tv2">tv2</string>
+    <string name="tv3">tv3</string>
+    <string name="tv4">tv4</string>
+    <string name="tv5">tv5</string>
+    <string name="tv6">tv6</string>
+    <string name="title_activity_routes_list">Lista de rutas</string>
+    <string name="title_activity_routes_list_description">RoutesListDescriptionActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_medal_dialog">MedalDialogActivity</string>
+
+</resources>

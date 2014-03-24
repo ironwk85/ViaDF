@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context=".PlacesActivity"
+    android:paddingTop="50dp"
+    android:background="@color/orange" >
+
+    <GridView
+        android:id="@+id/placesGridView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" 
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:gravity="center"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:columnWidth="90dp"
+        android:listSelector="@android:color/transparent">
+    </GridView>
+
+</RelativeLayout>

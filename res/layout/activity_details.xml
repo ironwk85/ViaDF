@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:context=".LinearLayout" 
+            android:background="@color/orange">
+                    
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="40px"
+                        android:textStyle="bold"
+                        android:paddingTop="10px"
+                        android:id="@+id/tv1"
+                        android:gravity="center"/>
+                    
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="10px"
+                        android:id="@+id/tv2"
+                        android:gravity="center"/>
+                    
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="10px"
+                        android:id="@+id/tv3"
+                        android:gravity="center"/>
+                    
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="10px"
+                        android:id="@+id/tv4"
+                        android:gravity="center"/>
+                    
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="10px"
+                        android:id="@+id/tv5"
+                        android:gravity="center"/>
+                    
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="10px"
+                        android:id="@+id/tv6"
+                        android:gravity="center"/>
+        
+        </LinearLayout>
